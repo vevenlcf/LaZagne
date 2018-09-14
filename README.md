@@ -1,6 +1,7 @@
 
 __The LaZagne Project !!!__
 ==
+用于获取 主机浏览器 缓存中的用户名、密码  以及 svn等账户密码
 
 Description
 ----
